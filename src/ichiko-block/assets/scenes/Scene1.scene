@@ -1,0 +1,75 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "fd7b13c6-7359-419b-8e9b-3da0578f6317",
+        "-type": "Image",
+        "children": [],
+        "variableName": "background",
+        "variableField": false,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "background",
+        "textureFrame": "background"
+      },
+      {
+        "-id": "51e0b512-3148-4fc5-8916-d8c3dafaa798",
+        "-type": "Image",
+        "children": [],
+        "variableName": "smileIchiko",
+        "variableField": false,
+        "x": 117.8023452758789,
+        "y": 476.9491271972656,
+        "scaleX": 0.4000000059604645,
+        "scaleY": 0.4000000059604645,
+        "textureKey": "smileIchiko",
+        "textureFrame": "smileIchiko"
+      },
+      {
+        "-id": "2c0a8150-49db-4e45-91e1-e8a1385e60cc",
+        "-type": "Image",
+        "children": [],
+        "variableName": "Marble02",
+        "variableField": false,
+        "x": 640.09423828125,
+        "y": 280.8166198730469,
+        "scaleX": 0.10000000149011612,
+        "scaleY": 0.10000000149011612,
+        "textureKey": "Marble02",
+        "textureFrame": "Marble02"
+      },
+      {
+        "-id": "bf9d0047-b305-4fbc-9817-54e642bb0843",
+        "-type": "Image",
+        "children": [],
+        "variableName": "chocomint",
+        "variableField": false,
+        "x": 621.4904174804688,
+        "y": 420,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "textureKey": "chocomint",
+        "textureFrame": "chocomint"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": [{
+      "-id": "bb98b517-f67d-42c7-8769-3a17762c5ca6",
+      "children": [],
+      "variableName": "bg",
+      "variableField": true
+    }]
+  },
+  "borderWidth": 960,
+  "borderHeight": 540,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene1"
+}

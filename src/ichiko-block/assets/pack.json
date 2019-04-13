@@ -1,0 +1,57 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "./src/ichiko-block/assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "./src/ichiko-block/assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "./src/ichiko-block/assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "image",
+      "key": "smileIchiko",
+      "url": "./src/ichiko-block/assets/image/smileIchiko.png"
+    },
+    {
+      "type": "image",
+      "key": "background",
+      "url": "./src/ichiko-block/assets/image/background.png"
+    },
+    {
+      "type": "image",
+      "key": "Marble02",
+      "url": "./src/ichiko-block/assets/image/Marble02.png"
+    },
+    {
+      "type": "image",
+      "key": "chocomint",
+      "url": "./src/ichiko-block/assets/image/chocomint.png"
+    },
+    {
+      "type": "image",
+      "key": "bar",
+      "url": "./src/ichiko-block/assets/image/bar.png"
+    },
+    {
+      "type": "image",
+      "key": "ball",
+      "url": "./src/ichiko-block/assets/image/ball.png"
+    }
+  ]},
+  "meta": {
+    "generated": "1554929371177",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}

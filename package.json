@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-typescript",
+  "name": "ichikogamesample",
   "version": "1.2.4",
-  "description": "Boilerplate, Game Examples, Cheat Sheets and Tutorials for Phaser 3 in TypeScript",
+  "description": "Sample For Pusaken",
   "keywords": [
     "Phaser",
     "Phaser 3",
